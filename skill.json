@@ -1,0 +1,19 @@
+{
+  "name": "genpark-quadratic-programming-active-set-skill",
+  "version": "1.0.0",
+  "description": "Active-set Karush-Kuhn-Tucker (KKT) quadratic programming (QP) solver for quadratic costs with equality/inequality constraints",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "quadratic-programming",
+    "kkt-conditions",
+    "active-set-method",
+    "convex-qp",
+    "lagrange-multipliers",
+    "quadratic-cost",
+    "python-standard-library",
+    "agent-skills",
+    "constrained-optimization",
+    "optimal-control"
+  ]
+}
