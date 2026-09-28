@@ -1,0 +1,5 @@
+name: genpark-quadratic-programming-active-set-skill
+description: Active-set Karush-Kuhn-Tucker (KKT) quadratic programming (QP) solver for quadratic costs with equality/inequality constraints
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
